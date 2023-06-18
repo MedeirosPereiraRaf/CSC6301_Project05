@@ -1,0 +1,44 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Rafael/Documents/NetBeansProjects/CSC6301Week5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Rafael/Documents/NetBeansProjects/CSC6301Week5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CSC6301Week5 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CSC6301Week5 1.0-SNAPSHOT API'
+edu.merrimack.design.csc6301week5
+'C:/Users/Rafael/Documents/NetBeansProjects/CSC6301Week5/src/main/java/edu/merrimack/design/csc6301week5/InputStackOrganizer.java'
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\src\main\java = 1686350021283
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\allclasses-index.html = 1686352460134
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\allpackages-index.html = 1686352460136
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\element-list = 1686352460095
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\help-doc.html = 1686352460160
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\index-all.html = 1686352460151
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\index.html = 1686352460154
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\jquery-ui.overrides.css = 1686352460210
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\member-search-index.js = 1686352460142
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\module-search-index.js = 1686352460137
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\overview-tree.html = 1686352460123
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\package-search-index.js = 1686352460139
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\script.js = 1686352460165
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\search.js = 1686352460168
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\stylesheet.css = 1686352460163
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\tag-search-index.js = 1686352460143
+C:\Users\Rafael\Documents\NetBeansProjects\CSC6301Week5\target\site\apidocs\type-search-index.js = 1686352460140
