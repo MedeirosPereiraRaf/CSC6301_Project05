@@ -14,6 +14,6 @@ Resulting sorted Stack:
 ![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project05/assets/136990615/ab445c32-31e2-433b-946c-93b3de307244)
 
 
-# Size of List
+# Size of Stack
 Note that the size of the stack can be configured through the following variable:
 ![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project04/assets/136990615/cf9905e6-d581-4e38-809a-fe897d83e856)
