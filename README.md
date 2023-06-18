@@ -16,4 +16,5 @@ Resulting sorted Stack:
 
 # Size of Stack
 Note that the size of the stack can be configured through the following variable:
-![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project04/assets/136990615/cf9905e6-d581-4e38-809a-fe897d83e856)
+![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project05/assets/136990615/e105d8a2-5811-4aff-abe7-f5f756d4af9d)
+
