@@ -15,5 +15,5 @@ Resulting sorted Stack:
 
 
 # Size of List
-Note that the size of the linked list can be configured through the following variable:
+Note that the size of the stack can be configured through the following variable:
 ![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project04/assets/136990615/cf9905e6-d581-4e38-809a-fe897d83e856)
